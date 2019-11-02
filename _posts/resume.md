@@ -2,7 +2,7 @@
 layout: post
 title: resume
 ---
-aadeshdeshmukh25@gmail.com​ ​​+91-8766453690 ​h​ ttps://github.com/Aadesha AADESH
+aadeshdeshmukh25@gmail.com​ ​​+91-8766453690 ​https://github.com/Aadesha AADESH
 
 Skills: C/C++, Python, Julia, Unix/Linux, SQL, Shell Script, Verilog, Git. Languages: English, Hindi, Marathi.
 
